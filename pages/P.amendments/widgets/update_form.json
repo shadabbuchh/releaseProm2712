@@ -303,8 +303,7 @@
           "label": "Approved By",
           "labelTextSize": "0.875rem",
           "originalIdentifier": "approved_by",
-          "position": 10,
-          "sourceData": null
+          "position": 10
         },
         "billing_frequency": {
           "accentColor": "{{((sourceData, formData, fieldState) => ((appsmith.theme.colors.primaryColor)))(update_form.sourceData, update_form.formData, update_form.fieldState)}}",
