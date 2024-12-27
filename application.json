@@ -75,6 +75,10 @@
     {
       "id": "Snowflake",
       "isDefault": false
+    },
+    {
+      "id": "P.amendments",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
